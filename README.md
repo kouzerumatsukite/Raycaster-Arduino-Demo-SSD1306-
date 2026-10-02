@@ -205,8 +205,3 @@ MIT License — Feel free to fork, modify, and build upon this engine!
 
 **Questions or ideas?** Open an issue or reach out! I'd love to see what you build with this. 🚀
 ```
-
-If you want, I can also do:
-- a shorter “clean GitHub README” version,
-- a more technical version,
-- or a more fun / personal version with text that sounds more like you.
